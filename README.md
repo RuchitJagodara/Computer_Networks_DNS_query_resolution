@@ -5,8 +5,6 @@
 > - Ruchit Jagodara (Roll No. 22110102)
 > - Chiragkumar Patel (Roll No. 22110183)
 
-Only one member should submit the assignment on behalf of both. Please update the above with your actual names and roll numbers.
-
 ## Repository Structure
 
 ```
