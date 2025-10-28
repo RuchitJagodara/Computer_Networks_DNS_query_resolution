@@ -106,8 +106,6 @@ pip install scapy matplotlib pandas
       python3 PARTD/plot_logs.py
       ```
     - This will create `plot_latency.png` and `plot_servers_visited.png` for the first 10 unique URLs.
-5. **Compare results:**
-    - Compare the metrics and plots from Part B and Part D.
 
 ---
 
